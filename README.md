@@ -4,6 +4,7 @@ MySQL User-defined function (UDF) for HTTP GET/POST
 MySQL User-defined function (UDF) for HTTP REST
 
 **Note:** It is a fork repository. Original Website is below.  
+** It's no longer there
 http://code.google.com/p/mysql-udf-http
 
 ## Overview
